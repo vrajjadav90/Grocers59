@@ -69,7 +69,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3ls_vegetables">
 							<ul class="dropdown-menu drp-mnu">
 								<li><a href="alogin.php">Admin</a></li> 
-								<li><a href="logout.php">Logout</a></li>
+								<li><a href="logout.php">Loogout!</a></li>
 							</ul>
 						</div>                  
 					</div>	
